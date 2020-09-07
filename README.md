@@ -1,6 +1,6 @@
 # Perfis para Visual Studio Code
 
-Adotar o Visual Studio Code como editor de código/texto padrão para diversas tecnologias (Javascript, GO, Java) não é uma escolha fácil.
+Adotar o [Visual Studio Code](https://code.visualstudio.com) como editor de código/texto padrão para diversas tecnologias (Javascript, GO, Java) não é uma escolha fácil.
 
 Muitas vezes fazer alterações nas configurações (tema, fonte, etc), e gerenciar extensões (ativar/desativar) para cada tipo de projeto é um trabalho tedioso.
 
@@ -60,8 +60,8 @@ code-java ~/workspaces/spring-quickstart
 
 ## Extensão Profile Switcher
 
-Se você não quiser ter todo esse trabalho, o Aaron Powell criou a extensão [Profile Switcher](https://marketplace.visualstudio.com/items?itemName=aaronpowell.vscode-profile-switcher) que permite salvar vários "perfis" e trocar entre eles de dentro do VSCode.
+Se você não quiser ter todo esse trabalho, o [Aaron Powell](https://www.aaron-powell.com) criou a extensão [Profile Switcher](https://marketplace.visualstudio.com/items?itemName=aaronpowell.vscode-profile-switcher) que permite salvar vários "perfis" e trocar entre eles de dentro do VSCode.
 
 ## Referencia
 
-Andy Van Slaars, [Profile Codes](https://github.com/avanslaars/code-profiles).
+[Andy Van Slaars](https://vanslaars.io/) compartilhou um repositório no github [Profile Codes](https://github.com/avanslaars/code-profiles) onde aprendi como fazer isso, gratidão eterna.

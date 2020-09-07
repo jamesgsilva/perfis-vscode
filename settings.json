@@ -1,0 +1,129 @@
+{
+    "editor.suggestSelection": "first",
+    "editor.formatOnPaste": false,
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "editor.fontLigatures": true,
+    "editor.minimap.enabled": false,
+    "editor.renderControlCharacters": true,
+    "editor.renderWhitespace": "all",
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    "editor.cursorStyle": "block",
+    "editor.formatOnType": false,
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "terminal.integrated.shell.linux": "/bin/zsh",
+    "explorer.confirmDelete": false,
+    "explorer.openEditors.visible": 0,
+    "explorer.confirmDragAndDrop": false,
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "window.zoomLevel": 0,
+    "[java]": {
+        "editor.defaultFormatter": "redhat.java",
+    },
+    "[go]": {
+        "editor.defaultFormatter": "golang.Go",
+    },
+    "[php]": {
+        "editor.defaultFormatter": "junstyle.php-cs-fixer",
+        "editor.formatOnSave": true
+    },
+    "go.formatTool": "goimports",
+    "go.useLanguageServer": true,
+    "go.autocompleteUnimportedPackages": true,
+    "java.requirements.JDK11Warning": false,
+    "cSpell.enabledLanguageIds": [
+        "c",
+        "clojure",
+        "cpp",
+        "csharp",
+        "git-commit",
+        "go",
+        "html",
+        "ignore",
+        "ini",
+        "java",
+        "javascript",
+        "javascriptreact",
+        "json",
+        "jsonc",
+        "markdown",
+        "php",
+        "plaintext",
+        "properties",
+        "pug",
+        "python",
+        "restructuredtext",
+        "rust",
+        "shellscript",
+        "sql",
+        "text",
+        "typescript",
+        "typescriptreact",
+        "xml",
+        "yaml",
+        "yml"
+    ],
+    "quarkus.tools.debug.terminateProcessOnExit": "Ask",
+    "java.semanticHighlighting.enabled": true,
+    "java.format.settings.url": "https://raw.githubusercontent.com/google/styleguide/gh-pages/eclipse-java-google-style.xml",
+    "java.format.settings.profile": "GoogleStyle",
+    "java.checkstyle.autocheck": true,
+    "githubIssues.queries": [
+        {
+            "label": "My Issues",
+            "query": "default"
+        },
+        {
+            "label": "Created Issues",
+            "query": "author:${user} state:open repo:${owner}/${repository} sort:updated-desc"
+        }
+    ],
+    "debug.javascript.usePreview": false,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 3000,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "eslint.alwaysShowStatus": true,
+    "eslint.format.enable": true,
+    "workbench.colorTheme": "GitHub Light",
+    "java.test.log.level": "verbose",
+    "php.validate.executablePath": "/usr/bin/php",
+    "php.suggest.basic": false,
+    "editor.quickSuggestions": {
+        "comments": true
+    },
+    "intelephense.files.exclude": [
+        "**/.git/**",
+        "**/.svn/**",
+        "**/.hg/**",
+        "**/CVS/**",
+        "**/.DS_Store/**",
+        "**/node_modules/**",
+        "**/bower_components/**",
+        "**/vendor/**/{Test,test,Tests,tests}/**/*Test.php"
+    ],
+    "php-cs-fixer.rules": "@PhpCsFixer",
+    "emmet.includeLanguages": {
+        "twig": "html"
+    },
+    "cSpell.language": "en,pt_BR",
+    "npm-intellisense.scanDevDependencies": true,
+    "npm-intellisense.showBuildInLibs": true,
+    "editor.largeFileOptimizations": false,
+    "cSpell.userWords": [
+        "portugol"
+    ],
+    "java.project.importOnFirstTimeStartup": "automatic"
+}
